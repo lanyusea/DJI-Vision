@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DJI VISION</string>
+    <string name="title_activity_main">main activity</string>
+    <string name="title_activity_album">album activity</string>
+    <string name="hello_world">DJI VISION</string>
+    <string name="camera_connection_ok">Connected</string>
+    <string name="camera_connection_break">Disconnect</string>
+    <string name="gs_not_get_home_point">Not get home point yet</string>>
+    <!-- Battery Info Demo Activity -->
+    <string name="title_activity_battery_info_demo">BatteryInfoDemoActivity</string>
+    <string name="battery_info">Battery Info:</string>
+    <string name="main_controller_state">State:</string>
+    <!-- Menu Options-->
+    <string name="toggle_footnotes">Toggle footnotes</string>
+    <string name="pair">Pair</string>
+    <string name="stop">Stop</string>
+    <string name="check_connection">Check Connection</string>
+    <string name="album">Album</string>
+    <string name="headControl">Head Control</string>
+    <string name="fullScreen">Full Screen</string>
+    <string name="returnHome">Return Home</string>
+    <string name="MYOControl">MYO Control</string>
+
+
+
+</resources>

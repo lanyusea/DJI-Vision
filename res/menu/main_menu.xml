@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/album"
+        android:title="@string/album" />
+    <item
+        android:id="@+id/head_control"
+        android:title="@string/headControl" />
+    <item
+        android:id="@+id/MYO_control"
+        android:title="@string/MYOControl" />
+    <item
+        android:id="@+id/full_screen"
+        android:title="@string/fullScreen" />
+    <item
+        android:id="@+id/return_home"
+        android:title="@string/returnHome" />
+
+</menu>
